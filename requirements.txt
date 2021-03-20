@@ -7,7 +7,7 @@ Flask-Mail==0.7.6
 Flask-Script==0.5.3
 Flask-Testing==0.4
 Flask-WTF==0.8.3
-Jinja2==2.6
+Jinja2==2.11.3
 WTForms==1.0.3
 Werkzeug==0.8.3
 WebOb==1.2.3
